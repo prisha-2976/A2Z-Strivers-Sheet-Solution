@@ -28,7 +28,7 @@ Sample Input 2 :
 Sample Output 2 :
 */
 
-public class Lec10_Patterns10 {
+public class Lec2_Patterns10 {
         public static void nStarTriangle(int n) {
             // Write your code here
             int st=1;
