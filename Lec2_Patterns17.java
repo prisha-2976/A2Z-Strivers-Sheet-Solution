@@ -1,4 +1,4 @@
-public class Lec_Patterns17 {
+public class Lec2_Patterns17 {
     public static void alphaHill(int n) {
         // Write your code here
         for(int i=0;i<n;i++){
