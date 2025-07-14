@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 /* Problem statement
 Sam is planting trees on the upper half region (separated by the left diagonal) of the square shared field.
 

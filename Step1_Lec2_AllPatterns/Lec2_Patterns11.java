@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 public class Lec2_Patterns11 {
     public static void nBinaryTriangle(int n) {
         // Write your code here.

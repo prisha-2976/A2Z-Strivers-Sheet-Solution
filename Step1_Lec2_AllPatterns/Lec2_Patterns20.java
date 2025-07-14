@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 public class Lec2_Patterns20 {
       public static void symmetry(int n) {
         // Write your code here

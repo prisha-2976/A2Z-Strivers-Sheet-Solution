@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 public class Lec2_Patterns12 {
     public static void numberCrown(int n) {
         // Write your code here.

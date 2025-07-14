@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 public class Lec2_Patterns13 {
     public static void nNumberTriangle(int n) {
         // Write your code here

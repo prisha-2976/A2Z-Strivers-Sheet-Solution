@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 public class Lec2_Patterns21 {
      public static void getStarPattern(int n) {
         // Write your code here

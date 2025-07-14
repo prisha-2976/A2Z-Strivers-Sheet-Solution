@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 /*Problem statement
 Sam is making a forest visualizer. An N-dimensional forest is represented by the pattern of size NxN filled with ‘*’.
 

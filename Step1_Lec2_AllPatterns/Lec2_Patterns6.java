@@ -1,3 +1,4 @@
+package Step1_Lec2_AllPatterns;
 /*Problem statement
 Aryan and his friends are very fond of the pattern. For a given integer ‘N’, they want to make the Reverse N-Number Triangle.
 
