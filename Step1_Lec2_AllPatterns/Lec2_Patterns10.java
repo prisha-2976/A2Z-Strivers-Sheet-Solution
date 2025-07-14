@@ -30,7 +30,7 @@ Sample Output 2 :
 */
 
 public class Lec2_Patterns10 {
-        public static void nStarTriangle(int n) {
+        public static void StarTriangle(int n) {
             // Write your code here
             int st=1;
             int sp=n-1;
