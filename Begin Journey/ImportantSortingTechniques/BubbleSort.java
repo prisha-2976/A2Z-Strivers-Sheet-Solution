@@ -33,6 +33,7 @@ public class BubbleSort {
 // Time Complexity: O(N^2)
 // Space Complexity: O(1)
 // Recursive
+/* 
 void BubbleSortRecursive(int[] arr, int n) {
     // Base case: If the array size is 1 or less, it's already sorted
     if (n <= 1) {
@@ -49,6 +50,6 @@ void BubbleSortRecursive(int[] arr, int n) {
 
     // Recursive call for the remaining array
     BubbleSortRecursive(arr, n - 1);
-}
+// }
 // Space Complexity: O(N) due to call stack space.
-// Time Complexity: O(N^2)
+// Time Complexity: O(N^2)*/
