@@ -46,3 +46,5 @@ public class MergeSort {
 
     
 }
+// Time Complexity: O(N log N) in all cases (best, average, worst)
+// Space Complexity: O(N) due to the temporary array used for merging
