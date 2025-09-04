@@ -50,3 +50,5 @@ void BubbleSortRecursive(int[] arr, int n) {
     // Recursive call for the remaining array
     BubbleSortRecursive(arr, n - 1);
 }
+// Space Complexity: O(N) due to call stack space.
+// Time Complexity: O(N^2)
